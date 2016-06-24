@@ -1,0 +1,500 @@
+docker ps 
+docker ps 
+docker ps images
+docker images ps
+docker images ps -a
+docker  ps -a
+docker  ps -a
+docker  ps -a
+df -k
+df -k
+df -k
+df -k
+df -k
+df -k
+df -k
+docker  ps -a
+docker  ps -a
+docker rm 04b2a2a740aa
+docker  ps -a
+ls
+cd devOps/
+ls
+docker build .
+vi docker
+ls
+vi dockerfile 
+docker build .
+vi dockerfile 
+docker build .
+vi dockerfile 
+docker build .
+vi dockerfile 
+docker build .
+ls
+cd devOps/
+ls
+docker build .
+docker build .
+exit
+ls
+de devOps/
+ls
+cd devOps/
+ls
+vi docker
+vi dockerfile 
+docker build .
+docker build -t demo:tag .
+vi dockerfile 
+exit
+ping emeacache.uk.oracle.com
+cd /
+cd usr/
+cd src
+ls
+mkdir my-app
+sudo mkdir my-apps
+cd my-apps/
+ls
+vi index.php
+sudo vi index.php
+sudo vi index.php
+cd 
+ls
+cd devOps/
+ls
+cd docker
+ls
+cd new/
+ls
+cd dockerphp/
+ls
+vi Dockerfile 
+docker ps -a
+docker ps -a
+ls
+cd ..
+ls
+cd ..
+ls
+docker-compose -f docker-compose.yml ps
+ls
+mkdir wordpress
+mv docker-compose.yml ./wordpress/docker-compose.yml
+ls
+cd wordpress/
+ls
+docker-compose scale web=5 mysql=1
+docker-compose scale wordpress=5 mysql=1
+docker-compose scale wordpress=1 mysql=1
+docker-compose -f docker-compose.yml ps
+docker-compose -f docker-compose.yml ps -a
+docker-compose -f docker-compose.yml ps
+clear
+exit
+ls
+cd devOps/
+ls
+mkdir new
+cd new/
+ls
+git pull https://github.com/ccasares/docker.git
+git clone https://github.com/ccasares/docker.git
+ls
+cd docker/
+ls
+docker build .
+docker ps -a
+docker ps 
+docker ps -i
+docker image
+docker -psa
+sudo docker run -d -p 7001:80 10473d318501
+docker ps
+ls
+git add .
+git commit -m "docker sample"
+git push
+git remote add origin https://github.com/jbrasero/docker.git
+git push -u origin master
+git init
+git remote add origin https://github.com/jbrasero/docker.git
+git push -u origin master
+git push -u origin master
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/jbrasero/docker.git
+git remote add origin https://github.com/jbrasero/docker2.git
+ls -la
+rm .git
+rm -rf .git
+rm -rf .gitignore 
+ls -la
+git init
+git commit -m "first commit"
+git push -u origin master
+git remote add origin https://github.com/jbrasero/docker.git
+git push -u origin master
+git pull
+git push -u origin master
+git remote add origin https://github.com/jbrasero/docker2.git
+git remote add origin https://github.com/jbrasero/docker3.git
+git pull
+git init
+git add .
+git status
+git commit -m "init Status"
+git remote add origin https://github.com/jbrasero/docker.git
+git remote add origin https://github.com/jbrasero/docker.git
+git push -u origin master
+git push -u origin master
+docker images
+docker ps
+ls
+cd ..
+ls
+ls -la
+mkdir dockerphp
+cd docker
+ls
+cd ..
+cd dockerphp/
+ls
+ROM php:5.6-cli
+COPY . /usr/src/myapp
+WORKDIR /usr/src/myapp
+vi Dockerfile
+docker build -t my-php-app .
+docker build -t my-php-app .
+docker run -it --rm --name my-running-app my-php-app
+docker images
+docker ps
+ps -a
+ps -a
+docker ps -a
+docker -rm tender_jepsen
+docker -rm e55289a65cb9
+
+docke
+docker
+sudo apt-get update
+sudo apt-get install apt-transport-https ca-certificates
+> sudo apt-key adv --keyserver hkp://p80.pool.sks-keyservers.net:80 --recv-keys 58118E89F3A912897C070ADBF76221572C52609D
+cd /etc
+ls
+cd apt
+cd sources.list.d/
+ls
+vi docker.list 
+sudo vi docker.list 
+vi docker.list 
+sudo apt-get update
+curl -L https://github.com/docker/compose/releases/download/1.6.2/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+sudo curl -L https://github.com/docker/compose/releases/download/1.6.2/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+sudo -i
+ docker-compose --version
+cd
+ls
+sudo
+sudo su
+exit
+chef-client --version
+apt-get install git
+sudo apt-get install git
+chef-client --version
+kitchen --version
+ohai
+ls
+cd devOps/
+ls
+cd chef-repo/
+ls
+ls -la
+pwd
+ls -la
+cd cookbooks/
+ls
+cd starter/
+ls
+cd ..
+cd ..
+ls
+cd cookbooks/
+ls
+cd chefignore 
+ls
+cd chefignore 
+ls
+cd starter/
+ls
+cd files/
+ls
+cd ..
+cd recipes/
+ls
+more default.rb 
+cd ..
+cd ..
+cd ..
+ls
+clear
+ls -la
+cd ..
+ls
+cd chef-repo/
+ls
+cd cookbooks/
+ls
+ls
+git clone https://github.com/chef-training/chef-essentials-repo.git
+ls -la
+cd chef
+cd chef-essentials-repo/
+ls -la
+ls
+ls
+cd cookbooks/
+ls
+mv apache/ ../..
+ls
+cd ..
+ls
+cd ..
+ls
+cd chef-essentials-repo/
+ls
+cd cookbooks/
+ls
+mv workstation/ ../..
+cd ..
+cd ..
+ls
+rm -rf chef-essentials-repo/
+ls -la
+cd starter/
+l
+ls
+cd ..
+cd workstation/
+ls -la
+cd ..
+ls
+ls -la
+clear
+ls
+ls -la
+cd ..
+tree
+sudo apt-get install tree
+tree
+ls
+ls -la
+cd cookbooks/
+ls
+ls -la
+knife --help
+knife --help
+knife cookbook list
+cd apache/
+ls
+ls -la
+berks install
+
+knife cookbook list
+cd ..
+ls
+cd workstation/
+knife cookbook list
+berks install
+berks upload
+knife cookbook list
+cd ..
+cd starter/
+berks install
+cd ..
+ls
+knife cookbook list
+knife node list
+knife bootstrap 54.197.178.190 -x chef -p mypassword --sudo -N node1
+clear
+knife bootstrap 54.197.178.190 -x chef -P mypassword --sudo -N node1
+knide node list
+knife node list
+knide node show node1
+knife node show node1
+knife node run_list add node1 "recipe[apache]"
+exit
+knife cookbook list
+chef-repo
+pwd
+ls
+cd devOps/
+ls
+cd chef-repo/
+ls
+knife cookbook list
+knife node
+knife node list
+knife node list
+knife node show node1
+knife node run_list add node1 "recipe[apache]"
+knife node show node1
+chef generate cookbook cookbooks/myhaproxy
+ls -la
+cd cookbooks/
+ls
+cd myhaproxy/
+ls
+ls -la
+tre
+tree
+vi metadata.rb 
+more metadata.rb 
+vi metadata.rb 
+knife node show node1
+knife node show node1 -a cloud
+knife node show node1 -a memory
+knife node show node1 -a cloud.public_ipv4
+cd recipes/
+vi default.rb 
+vi default.rb 
+vi default.rb 
+more default.rb 
+cd ..
+ls
+cd recipes/
+vi default.rb 
+cd ..
+berks intall
+berks install
+berks upload
+knide cookbook list
+cd ..
+knide cookbook list
+knife cookbook list
+knife bootstrap 54.197.101.105 -x chef -P chef --sudo -N node2
+knife node run_list add node2 "recipe[myhaproxy]"
+knife node show node2
+knife node show node1
+knife node show node1 node2
+knife node show node2
+knife ssh "*:* -x chef "sudo chef-client"
+mypassword
+chef
+chef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+knife ssh"*:*" -x chef "sudo chef-client"
+knife ssh "*:*" -x chef "sudo chef-client"
+knife ssh "*:*" -x chef "sudo chef-client"
+knife ssh "*:*" -x chef "sudo chef-client"
+knife ssh "*:*" -x chef "sudo chef-client"
+knife ssh "*:*" -x chef "sudo chef-client"
+knife ssh "*:*" -x chef -P mypassword "sudo chef-client"
+pwd
+ls
+cd devOps/
+ls
+cd chef-repo/
+ls
+knife ssh "*:*" -x chef -P mypassword "sudo chef-client"
+knife bootstrap 54.167.149.49 -x chef -P chef --sudo -N node3
+knife node show node3
+knife node run_list add node3 "recipe[apache]"
+knife ssh "*:node3" -x chef -P mypassword "sudo chef-client"
+knife node show node3 -a cloud
+cd cookbooks/
+ls
+cd h
+cd myhaproxy/
+ls
+cd recipes/
+ls
+vi default.rb 
+cd ..
+ls
+vi metadata.rb 
+berks install
+berks upload
+knife ssh "*:*" -x chef -P mypassword "sudo chef-client"
+knife role list
+ls
+cd ..
+ls
+cd ..
+cd roles/
+ls
+cd more
+more starter.rb 
+vi load_balancer.rb
+more load_balancer.rb 
+knife role from file load_balancer.rb
+knife role list
+knife role show load_balancer
+knife role create web.rb
+cd ..
+knife role create web.rb
+knife role show load_balancer
+ls -la
+cd roles/
+ls
+knife node run_list set node2 "role[load_balancer]"
+c d..
+cd ..
+knife node show node2
+knife ssh "role:load_balancer" -x chef -P mypassword "sudo chef-client"
+cd roles/
+ls
+cd ..
+knife role edit web
+knife role create web
+set EDITOR=vi
+knife role create web
+$EDITOR=vi
+set $EDITOR=vi
+knife role create web
+cd roles
+vi web.rb
+knife role from file web.rb
+knife role list
+knife role show web
+knife node run_list set node1 "role[web]"
+knife node run_list set node3 "role[web]"
+knife ssh"role:web" -x USER -P mypassword "sudo chef-client"
+cd ..
+knife ssh"role:web" -x USER -P mypassword "sudo chef-client"
+knife node run_list set node3 "role[web]"
+knife ssh "role:web" -x USER -P mypassword "sudo chef-client"
+knife node run_list set node3 "role[web]"
+exitexit
+knife ssh "role:web" -x USER -P mypassword "sudo chef-client"
+ls
+cd devOps/
+ls
+cd chef-repo/
+ls
+knife ssh "role:web" -x USER -P mypassword "sudo chef-client"
