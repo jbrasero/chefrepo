@@ -1,0 +1,25 @@
+DEPENDENCIES
+  myhaproxy
+    path: .
+    metadata: true
+
+GRAPH
+  build-essential (6.0.0)
+    compat_resource (>= 12.10)
+    mingw (>= 1.1)
+    seven_zip (>= 0.0.0)
+  chef_handler (1.4.0)
+  compat_resource (12.10.6)
+  cpu (0.2.0)
+  haproxy (1.6.7)
+    build-essential (>= 0.0.0)
+    cpu (>= 0.2.0)
+  mingw (1.2.1)
+    compat_resource (>= 0.0.0)
+    seven_zip (>= 0.0.0)
+  myhaproxy (1.0.0)
+    haproxy (~> 1.6.6)
+  seven_zip (2.0.1)
+    windows (>= 1.2.2)
+  windows (1.44.0)
+    chef_handler (>= 0.0.0)
